@@ -210,7 +210,6 @@ __marimo__/
 .streamlit/secrets.toml
 
 *.mp4
-*.txt
 *.vtt
 *.mp3
 *.png
